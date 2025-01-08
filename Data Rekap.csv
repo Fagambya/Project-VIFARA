@@ -1,0 +1,44 @@
+nama,film,jam,studio,kursi,harga,harga_makan,harga_fasilitas,total_harga
+bibi,Si Manis dari Semanggi,12:45,Studio 1,E4,25000,0,0,25000
+bibi,Si Manis dari Semanggi,12:45,Studio 1,A6,25000,0,0,25000
+bibi,Si Manis dari Semanggi,12:45,Studio 1,A2,25000,0,0,25000
+por,Frozen 10,15:15,Studio 1,F4,50000,0,0,50000
+por,Frozen 10,15:15,Studio 1,F8,50000,0,0,50000
+por,Frozen 10,15:15,Studio 1,F9,50000,0,0,50000
+por,Frozen 10,15:15,Studio 1,F2,50000,0,0,50000
+got,Upin dan Ipin 5,10:00,Studio 2,D3,20000,0,0,20000
+got,Upin dan Ipin 5,10:00,Studio 2,D6,20000,0,0,20000
+got,Upin dan Ipin 5,10:00,Studio 2,D1,20000,0,0,20000
+def,Cerita di Balik STS,19:30,Studio 2,A3,35000,0,0,35000
+def,Cerita di Balik STS,19:30,Studio 2,A4,35000,0,0,35000
+def,Cerita di Balik STS,19:30,Studio 2,A1,35000,0,0,35000
+def,Cerita di Balik STS,19:30,Studio 2,A6,35000,0,0,35000
+def,Cerita di Balik STS,19:30,Studio 2,A8,35000,0,0,35000
+jinyu,Cerita di Balik STS,14:40,Studio 1,D3,35000,0,0,35000
+jinyu,Cerita di Balik STS,14:40,Studio 1,D5,35000,0,0,35000
+jinyu,Cerita di Balik STS,14:40,Studio 1,D2,35000,0,0,35000
+jinyu,Cerita di Balik STS,14:40,Studio 1,D9,35000,0,0,35000
+git,Upin dan Ipin 5,10:40,Studio 1,B4,20000,115000,21000,156000
+git,Upin dan Ipin 5,10:40,Studio 1,B3,20000,115000,21000,156000
+git,Upin dan Ipin 5,10:40,Studio 1,B2,20000,115000,21000,156000
+fuji,Upin dan Ipin 5,20:50,Studio 1,G3,20000,360000,200000,580000
+fuji,Upin dan Ipin 5,20:50,Studio 1,G7,20000,360000,200000,580000
+pol,Upin dan Ipin 5,10:40,Studio 1,A1,20000,0,0,20000
+Admin,1,05:00,Studio 2,A1,0,0,0,0
+Admin,1,05:00,Studio 2,A3,0,0,0,0
+Admin,1,05:00,Studio 2,A5,0,0,0,0
+pipi,Frozen 10,15:15,Studio 1,D4,50000,50000,5000,105000
+pipi,Frozen 10,15:15,Studio 1,D2,50000,50000,5000,105000
+purnomo,Upin dan Ipin 5,10:40,Studio 1,B9,20000,3000,5000,28000
+purnomo,Upin dan Ipin 5,10:40,Studio 1,B10,20000,3000,5000,28000
+fuf,Upin dan Ipin 5,10:40,Studio 1,A3,20000,35000,5000,60000
+fuf,Upin dan Ipin 5,10:40,Studio 1,A6,20000,35000,5000,60000
+kilo,Si Manis dari Semanggi,12:45,Studio 1,A1,25000,25000,13000,63000
+fuja,Cerita di Balik STS,14:40,Studio 1,A2,35000,30000,6000,71000
+si tupa,Si Manis dari Semanggi,12:45,Studio 1,A3,25000,25000,5000,55000
+joki,Bukan Malinkundang,13:20,Studio 1,A2,40000,0,0,40000
+defa,Upin dan Ipin 5,10:40,Studio 1,A2,20000,50000,5000,75000
+aura,Cerita di Balik STS,14:40,Studio 1,A5,35000,90000,0,125000
+vivi,Bukan Malinkundang,13:20,Studio 1,A5,40000,60000,0,100000
+Admin,Upin dan Ipin 5,10:40,Studio 1,B1,0,0,0,0
+Admin,Upin dan Ipin 5,10:40,Studio 1,D1,0,0,0,0
